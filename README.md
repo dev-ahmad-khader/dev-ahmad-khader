@@ -44,6 +44,4 @@
 
 ---
 
-💬 *"Turning learning into building — one project at a time."*
-
 </div>
