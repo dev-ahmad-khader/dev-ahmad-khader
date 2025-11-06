@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://github.com/dev-ahmad-khader/dev-ahmad-khader/blob/main/assets/hello_coders.gif" alt="Hello Coders" width="60%"/>  
 <img src="https://github.com/dev-ahmad-khader/dev-ahmad-khader/blob/main/assets/dev_working.gif" alt="Coding" width="40%"/>  
@@ -45,3 +45,4 @@
 ---
 
 </div>
+](https://github.com/dashboard)
