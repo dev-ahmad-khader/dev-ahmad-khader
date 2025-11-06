@@ -1,10 +1,16 @@
 <div align="center">
 
+
+
 <img src="https://github.com/dev-ahmad-khader/dev-ahmad-khader/blob/main/assets/hello_coders.gif" alt="Hello Coders" width="60%"/>  
 
 <img src="https://github.com/dev-ahmad-khader/dev-ahmad-khader/blob/main/assets/dev_working.gif" alt="Coding" width="40%"/>  
 
+
+
 ---
+
+
 
 ### 👋 Hey, I'm Ahmad Khader  
 
@@ -14,7 +20,11 @@
 
 🚀 Passionate about **software development, C++, JavaScript, and technology**  
 
+
+
 ---
+
+
 
 ### 🧠 What I'm Doing
 
@@ -24,11 +34,13 @@
 
 - 💻 Exploring software engineering, open-source, and project-based learning  
 
+
+
 ---
 
+
+
 ### ⚙️ Tech Stack
-
-
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
@@ -46,6 +58,8 @@
 
 ---
 
+
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -56,7 +70,11 @@
 
 </div>
 
+
+
 ---
+
+
 
 ### 📫 Connect With Me  
 
@@ -66,6 +84,10 @@
 
 💻 [GitHub](https://github.com/dev-ahmad-khader)
 
+
+
 ---
+
+
 
 </div>
